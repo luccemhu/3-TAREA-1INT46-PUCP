@@ -1,4 +1,4 @@
-#  https://luccemhu.github.io/3-TAREA-1INT46-PUCP/
+#  [3-TAREA-1INT46-PUCP](https://luccemhu.github.io/3-TAREA-1INT46-PUCP/)
 
 ## Diccionario de Datos
 
