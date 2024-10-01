@@ -1,5 +1,12 @@
-# 3-TAREA-1INT46-PUCP
-Integrantes: Joel Huamaní y Luis Valverde
+#  https://luccemhu.github.io/3-TAREA-1INT46-PUCP/
+
+## Diccionario de Datos
+
+Enlace a GitHub Pages: https://luccemhu.github.io/3-TAREA-1INT46-PUCP/
+
+Integrantes:
+- Joel B. Huamani Ccallocunto - 20196510
+- Luis E. Valverde Ramos - 20191930
 
 Descripción: Este estudio analiza la Base de datos de Tratados Bilaterales de Inversión de The International Centre for Settlement of Investment Disputes-[ICSID](https://icsid.worldbank.org/) de The World Bank Group. En particular, recopilamos los [tratados por año de firma desde 1996 hasta 2004:](https://icsid.worldbank.org/es/recursos/base-de-datos/base-de-datos-de-Tratados-Bilaterales-de-Inversi%C3%B3n)
 
